@@ -28,3 +28,26 @@ In the future economy, repetetive skil become automated or easily outsourced, on
 In this new economy, three groups will have particular advatage: those who can work well and creatively with intelligent machines, those who are the best at what they do, and those with access to capital.
 
 ### How to Become a Winner in the New Economy
+Two core abilities for thriving in the new economy
+1. The ability to uickly master hard things.
+To join the group of group of those who can work well with these machines, requires that we hone the ability to master hard things. In a changing economy, it is necessary to do this quickly, again and again. 
+
+2. The ability to produce at an elite level, in terms of both quality and speed.
+If you don't produce, you won't thrive - no matter how skilled or talented you are.
+
+The two core abilities described depend on your ability to perform deep work. in a form of deliberate practice. In it's core deliberatie practice is identified as:
+1. Your attention is focused tightly on a specific skill you're trying to master.
+2. You receive feedback so you can correct your approach to keep your attraction exactly where it's most productive.
+
+Science shows that with a high focus, we isolate the relevant neural circuits to trigger **myelination**.
+
+### Deep Work helps you produce at an elite level
+One approach to increase once productivity can be the batching of hard but important intellectual work into long, uniterrupted stretches. The simple law of productivity:
+**High-QUality Work Produced = (Time Spent) x (Intensity of Focus)**
+
+The law of productivity aligns with the **concept of attention residue**.
+
+It is important to note that working in a semidistraction (e.g. watching inbox) is potentially devastating to your performance. Every quick check introduces a new target for your attention. Even worse you may pick up tasks you can not resolve right away. This secondary task and its attention residue left by such unresolved switches dampens your performance.
+
+As a result, **the type of work that optimizes your performance is deep work**. Without getting comfortable with deep work, it;ll be difficult to get your performance to the peak levels of quality and quantity increasingly necessary to thrive professionally.
+
