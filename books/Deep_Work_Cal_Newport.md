@@ -78,6 +78,12 @@ We've made the internet synonymous with the revolutionary future of business and
 Assuming the trends outlined continue, depth will become increasingly rare and therefore increasingly valuable. Haing established that there's nothing fundamentally flawed about deep work and nothing fudamentally necessary about the distracting behavior that displace it.
 
 ## Deep Work Is Meaningful
+Craftsman tackle professional cheallenges that are simple to define but difficult to execute. Knowledge work exchanges this clarity for ambiguity.
 
+### A Neurological Argument for Depth
+Like fingers poiting to the moon. other diverse disciplines from anthropology to education, behavioral economics to family coundeling, similarly suggest that the skillful managment of attention is the sine qua non of the good life and the key to improving vitually every aspect of your expirience.
 
+"Who you are, what you think, feel, and do, what you love - is the sum of what you focus on"
+
+In work (and especialy kowledge work), to increase the time you spend in a state of depth is to leverage the complex machinery of the human brain in a way that for several different neurological reasons maximizes the meaning and satisfaction you'll associate with your working life.
 
