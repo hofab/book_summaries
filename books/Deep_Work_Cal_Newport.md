@@ -87,3 +87,13 @@ Like fingers poiting to the moon. other diverse disciplines from anthropology to
 
 In work (and especialy kowledge work), to increase the time you spend in a state of depth is to leverage the complex machinery of the human brain in a way that for several different neurological reasons maximizes the meaning and satisfaction you'll associate with your working life.
 
+### A Psychological Argument for Depth
+Ironically, jobs are actually easier to enjoy than free time, because like flow activities they have built-in goals, feedback rules, and challenges, all of which encourage one to become involved in one's work, to concentrate and lose oeself in it. Free time, on the other hand, is unstructured, and requires much greater effort to be shaped into something that can be enjoyed.
+
+Human beings, it seems, are at their best when immersed deeply in something challenging.
+
+To build your working life around the experience of flow produced by deep work is a proven path to deep satisfaction.
+
+### A Philosophical Argument for Depth
+You don't need a rarified job; you need instead a rarified approach to your work.
+Deep work is key to extracting meanig from your profession.
