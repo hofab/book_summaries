@@ -97,3 +97,19 @@ To build your working life around the experience of flow produced by deep work i
 ### A Philosophical Argument for Depth
 You don't need a rarified job; you need instead a rarified approach to your work.
 Deep work is key to extracting meanig from your profession.
+
+## The Rules
+### Rule #1 Work Deeply
+In an ideal world-one in which the true value of dee work is accepted and celebrated-we'd all have access to a work environment (and culture) designed to help us extract as much value as possible from our brains.
+Peope fight desires all day long. "Desire turned out to be the norm, not the exception" (Book: Willpower)
+The thruth about willpower is, you have a finite amount of willpower that becomes depleted as you use it. Therefore, the idea behind the strategies that follow: The key to developing a deep work habit is to move beyond good intentions and add routines and rituals to your working life desgned to minimize the amount of your limited willpower necessary to transition into and maintain a state of unbroken concentration. With this in mind, he six strategies that follow can be understood as an arsenal of routines and rituals designed with the science of limited wilpower in mint to maximize the amount of deep work you consistently accomplish in your schedule.
+
+#### Decide on Your Depth Philosophy
+You need your own philosophy for integrating deep work into your professional life. You must be careful to choose a philosophy that fits your specific cicumstances, as a mismatch here can derail your deep work habit before it has a chance to solidify.
+
+##### The Monastic Philosophy of Deep Work Scheduling
+This philosophy attempts to maximize deep efforts by eliminating or radically minimizing shallow obligations. Practitioners of th emonastic philosophy tend to have a well-defined and highly valued professional goal that they're pursuing, and the bulk of their professional sucess comes from doing this one thing exceptionally well.
+
+The clarity with which the moastic philosophy adherents identify their value to the world, touches a raw nerve for those whose contribution to the iformation economy is more complex.
+
+##### The Bimodal Philosophy of Deep Work Scheduling
