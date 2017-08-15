@@ -113,3 +113,37 @@ This philosophy attempts to maximize deep efforts by eliminating or radically mi
 The clarity with which the moastic philosophy adherents identify their value to the world, touches a raw nerve for those whose contribution to the iformation economy is more complex.
 
 ##### The Bimodal Philosophy of Deep Work Scheduling
+
+This philosophy asks that you divide your time, dedicatig some clearly defined stretches to deep pusuits and leaving the rest open to everything else.During the deep time, the bimodal worker will act monastically - seeking intense and uninterrupted concentration. During the shallow time, such focus is not prioritized. This division of time between deep and open can happen on multiple scales, weekly, month, season, or even seasons. A minimum of a day needs to be dedicated to deep work for this philosophy. This bimodal philosophy is best for people who can't effort to detach from all commitments. Probably the biggest obstacle of this implementation is the need of a flexibility, that many fear not to have. But this fear is unsubstential, if these periods of absence are well defined and well advetised, and outside these stretches, your are easily found.
+
+#### he Rythmic Philosophy of Deep Work Scheduling
+
+This philosophy argues that the easiest way to consistently start deep work sessios is to transform them into a simple regular habit. 
+
+#### The Journalistic Philosophy of Deep Work Scheduling
+
+This approach fits deep work wherever you can in your schedule. This approach is not for the deep work novice. The ability to rapidly switch your mind from shallow to dep mode doesn't come naturally. Without practice, such switches can seriously dplete your finite willpower reserves. This habit also requires a sense of confidence in your abilities - a conviction that what you're doing is important and will suceed. This confidence goes a long way in motivating hard efforts.
+
+### Ritualize
+
+"Great creative minds think like artists but work like accountants" David Brooks
+To make the most out of your deep work sessions, build rituals of the same level of strictness and idiosyncrasy as the important thinkers mentioned previously. Rituals minimize the friction in the transition into depth, and stay in the state longer. 
+
+*There's no one correct deep work ritual - the right fit depends on both the person and the type of project pursued. But an effective ritual must adress the following questions.
+- *Where you'll work and for how long.*
+- *How you'll work once you start to work.*
+- *How you'll support your work.*
+
+This questions help to draft your deep work ritual. But finding a ritual that sticks might require experimentation and work.
+
+### Make Grand Gestures
+
+The concept is simple: By leveraging a radical change to your normal environment, coupled perhaps with a significant investment of effort or moey, all dedicated toward supporting a deep work task, the perceived importance of the task is increased. Such an importance boost reduces your mind's instinct to procrastinate and delivers an injection of motivation and energy.
+Increasing your mental priority helps unlock the needed mental resources.
+
+### Dont Work Alone
+
+For some types of problems, working with someone else at the proverbial shared whiteboard can push you deeper than if you were orking alone. The presence of another party waiting for your next insight ca short-circuit the natural instinct to avoid depth.
+For deep work use collaboration when appropriate, as it can push your results to a new level.
+
+### Execute Like a Business
