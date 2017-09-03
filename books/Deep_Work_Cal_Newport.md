@@ -147,3 +147,25 @@ For some types of problems, working with someone else at the proverbial shared w
 For deep work use collaboration when appropriate, as it can push your results to a new level.
 
 ### Execute Like a Business
+In business we often know what to do but not how to do it, this is crucial and is overlooked usually overlooked in the professional world. Whit this in mind, the following sections discribe how to adapt the 4DX framework for developing a deep work habit.
+
+#### Discipline #1: Focus on the Wildly Important
+
+"If you want to win the war for attention, don't try to say 'no' to the trivial distractions zou find on the information smorgasbord; try to say 'yes' to the subject that arouses a terrifying longing, and let the terrifying longing crowd out everything else." David Brooks - The Art of Focus
+
+#### Discipline #2: Act o the Lead Measures
+
+Once the widly important goals are identified, its success needs to be measured. There are two types of metrics: *lead* and *lag* measures. Lag measures describe the things we ultimately trying to improve. Unfortunately, this measures come to late to influence your behavior.
+Lead measures, on the other hand, measure the new behavior that will drive success on the lag measures. In the case of deep work, the lead measure is easily identified as, **time spent in a state of deep work dedicated torward your widly important goal.**
+
+#### Discipline #3: Keep a Compelling Scoreboard
+
+"People play different when they're keeping score" David Brooks - The Art of Focus. Therefore, in the preceding discipline, it was argued that for an individual focused on deep work, hours spent working deeply should be the lead measure. It follows, therefore, that the individual's scoreboard should be a physical artifact in the workspace that displays the individual's current deep work hour count. This serves two purposes. First, it allowed me to connect, at a visceral level, accuulated deep work hours and tangible results. Second, it helped calibrate my experience for how many hours of deep work were needed per result.
+
+#### Discipline #4: Create a Cadece of Accountability
+
+The 4DX authors elaborate that the final step to help maintain a focus on lead measures is to put in place "a rythm of regular and freuent meetings of any team that owns a widly important goal." Durin these meetings, the team members must confront their scoreboard, commit to specific actions to help improve the score before the next meeting, and describe what happened with the commitments the made at the last meeting.
+
+The 4DX framework is based on the fundamental premise that execution is more difficult than strategizing.
+
+### Be Lazy
