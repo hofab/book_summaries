@@ -169,3 +169,36 @@ The 4DX authors elaborate that the final step to help maintain a focus on lead m
 The 4DX framework is based on the fundamental premise that execution is more difficult than strategizing.
 
 ### Be Lazy
+
+Idleness is not just a vacation, an indulgence or a vice: it is indispensible to the brain as vitamin D is to the body, and deprived of it we suffer a mental affliction as disfigureing as rickets... it is, paradoxically, necessary to getting any work done. - Tim Kreider
+
+#### REASON 1: Downtime Aids Insights
+
+Providing your conscious brain time to rest enables your unconsious mind to take a shift sorting throough your most complex professional challanges. A shutdown habit, therefore, is not necessarily reducing the amount of time you're engaged in productive work, but is instead diversifying the type of work you deply.
+
+#### REASON 2: Downtime Helps Recharge the Energy Needed to Work Deeply
+
+The attention restoration theory (ART) claims taht spending time in nature can improve your ability to concentrate. To concentrate requires what ART calls *direct attention*. This resource is finite: If you exhaust it, you'll struggle to concentrate. The core mechanism of this theory is the idea that you can restore your ability to direct your attention if you give this activity a reset. Walking in nature provides such a mental respite, but so, too, can any number of relaxing activities so long as they provide similar "inherently fascinating stimuli" and freedom from directed concentration.
+
+Only confidence that you're done with work until the next day can convice your brain to downshift to the level where it can begin to recharge for the next day to follow.
+
+#### REASON 3: The work That Evening Downtime Replaces Is Usually Not That Important
+
+Research suggests, that your capacity for deep work in a given day is limited. If carefl, you should hit your daily deep work capacity during your workday. Therefore, by deferring evening work, you're not missing out on much of importance.
+
+To succeed with this strategy, you must first accept the commitment that once your workday shuts down, you cannot allow even smallest incursion of professional concerns into your field of attention.
+Another key commitment for succeeding with this strategy is to support your commitment with a strict *shutdown ritual* that you use at the end of the workday to maximize the probability that you succeed. In more detail, this ritual should ensure that every incomplete task, goal, or project has been reviewed and that for each you have confirmed that either
+1. you have a plan you trust for its completion, or
+2. it's patured in a place where it will be revisited when the time is right.
+The process should be an algorithm: a series of steps you always conduct, one after another. When your're done, have a set phrase you say that indicates completion.
+
+Usually incomplete tasks dominate our attention. As anu busy knowledge worker can attest, there are *always* tasks left incomplete. Fortunately, we don't need to complete a task to get it off our minds. By making a plan for *later* completing the incomplete task, not only facilitates attainment of the goal but may also free cognitive resources for other persuits.
+
+### Rule #2 Embrace Boredom
+
+The ability to concentrate intensely is a skill that must be trained. Efforts to deepen your focus will struggle if you don't simultaniously wean your mind from a dependence of distraction. 
+Research shows, that constant attention switching online has a lasting negative effect on your brain. If every moment of potential poredom in your life is relieved with a wuick glance at your smartphone, then your brain has likely been rewired to a point where, it's not ready for deep wotk - even if you regularly schedule time to practice this concentration.
+
+#### Don't Take Breaks from Distraction. Instead Take Breaks from Focus.
+
+
