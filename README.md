@@ -5,6 +5,6 @@ This repositorie includes summaries of books if read. This summaries is written 
   - Cal Newport - ISBN-13: 978-1455586691
 - [How to win friends and influence people](https://github.com/hofab/book_summaries/blob/master/books/how_to_win_friends_and_influence_people.md): The first - and still the best - book of its kind - to lead you to success
   - Dale Carnegie - ISBN-11: 1-4391-6734-6
-- [Clean Code](https://github.com/hofab/book_summaries/blob/master/books/clan_code.md): A Handbook of Agile Software Craftsmanship
+- [Clean Code](https://github.com/hofab/book_summaries/blob/master/books/clean_code.md): A Handbook of Agile Software Craftsmanship
   - Robert C. Martin - ISBN-13: 978-0132350884
 
