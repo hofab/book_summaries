@@ -1,4 +1,4 @@
-#Clean Code
+# Clean Code
 
 ### Meaningful Names
 The hardest thing about choosing good names is that it requires good desscriptive skills and a shared cultural background. This is teaching issue rather than a technical, business, or managment issue. You will probably end up suprising someone when you rename, just like you might with any oher code improvment. **Don't let is stop you in your racks**
